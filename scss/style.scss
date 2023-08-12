@@ -218,3 +218,21 @@ $ff: 'Raleway', sans-serif;
         }
     }
 }
+
+@media(max-width:560px) {
+    .feedback {
+        &__title {
+            margin-bottom: 5px;
+            h2 {
+                font-size: 20px;
+            }
+        }
+        &__slide {
+            .slide-text {
+                p {
+                    font-size: 14px;
+                }
+            }
+        }
+    }
+}

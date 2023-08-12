@@ -243,3 +243,15 @@
     background-color: #86c741;
   }
 }
+
+@media (max-width: 560px) {
+  .feedback__title {
+    margin-bottom: 5px;
+  }
+  .feedback__title h2 {
+    font-size: 20px;
+  }
+  .feedback__slide .slide-text p {
+    font-size: 14px;
+  }
+}
