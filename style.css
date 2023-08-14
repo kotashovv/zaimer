@@ -142,6 +142,8 @@
 
 .feedback__slide .slide-head .img {
   margin-right: 15px;
+  width: 60px;
+  height: 60px;
 }
 
 .feedback__slide .slide-head .img img {
